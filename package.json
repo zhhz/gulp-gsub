@@ -1,0 +1,45 @@
+{
+  "name": "gulp-gsub",
+  "description": "gsub file content with Gulp (gulpjs.com)",
+  "version": "0.0.1",
+  "homepage": "http://github.com/zhhz/gulp-gsub",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/zhhz/gulp-gsub.git"
+  },
+  "author": {
+    "name": "Zhonghai Zuo",
+    "email": "zhonghai.zuo@gmail.com",
+    "url": "http://zhonghaizuo.com"
+  },
+  "main": "./index.js",
+  "dependencies": {
+    "gulp-util": "^3.0.0",
+    "through2": "^0.5.1"
+  },
+  "engines": {
+    "node": ">= 0.9.0"
+  },
+  "keywords": [
+    "gulp",
+    "gsub",
+    "gulpplugin",
+    "gulp-plugin"
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/zhhz/gulp-gsub/raw/master/LICENSE"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/zhhz/gulp-gsub/issues"
+  },
+  "maintainers": [
+    {
+      "name": "zhhz",
+      "email": "zhonghai.zuo@gmail.com"
+    }
+  ],
+  "directories": {}
+}
